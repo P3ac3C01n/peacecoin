@@ -1,0 +1,2 @@
+# peacecoin
+Peacecoin Crypto Currency
